@@ -1,0 +1,36 @@
+body, html, #app {
+  height: 100%;
+}
+.ant-layout-sider {
+  background: #fff;
+}
+.flex {
+  display: flex;
+}
+.f-col {
+  flex-direction: column;
+}
+.j-center {
+  justify-content: center;
+}
+.a-center {
+  align-items: center;
+}
+.j-between {
+  justify-content: space-between;
+}
+.j-around {
+  justify-content: space-around;
+}
+.f-wrap {
+  flex-wrap: wrap;
+}
+.f-1 {
+  flex: 1;
+}
+.f-2 {
+  flex: 2;
+}
+.c-point {
+  cursor: pointer;
+}
